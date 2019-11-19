@@ -22,7 +22,7 @@ Good! And then please add my repository to your project, like this:
 
 
 ```java
-compile('com.fishinwater:login:1.0')
+implementation ('com.fishinwater:login:1.0')
 ```
 
 
